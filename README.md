@@ -32,3 +32,27 @@ UserInfoApp is a **React Native mobile and web application** that fetches and di
 ```bash
 git clone <your-repo-link>
 cd UserInfoApp
+
+✅ 2. Install Dependencies
+Make sure you are inside the project directory.
+
+bash
+Copy code
+npm install
+✅ 3. Install Web Support Packages (if not already installed)
+bash
+Copy code
+npx expo install react-dom react-native-web @expo/metro-runtime
+✅ 4. Run the App
+To start the development server:
+
+bash
+Copy code
+npx expo start
+✅ 5. Open the App
+Press w to open the app in the web browser.
+Scan the QR code using the Expo Go app on your Android/iOS device for mobile view.
+📱 Expo Go App Links
+Download for iOS
+Download for Android
+
