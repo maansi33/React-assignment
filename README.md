@@ -28,7 +28,6 @@ UserInfoApp is a **React Native mobile and web application** that fetches and di
 ## How to Run the Application Locally
 1. Clone the Repository
 ```bash
-Copy code
 git clone <your-repo-link>
 cd UserInfoApp
 ```
@@ -37,20 +36,17 @@ cd UserInfoApp
 Make sure you are inside the project directory.
 
 ```bash
-Copy code
 npm install
 ```
 
 3. Install Web Support Packages (if not already installed)
 ```bash
-Copy code
 npx expo install react-dom react-native-web @expo/metro-runtime
 ``` 
 4. Run the App
 To start the development server:
 
 ```bash
-Copy code
 npx expo start
 ```
 
