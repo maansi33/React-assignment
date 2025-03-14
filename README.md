@@ -55,8 +55,8 @@ npx expo start
 ```
 
 5. Open the App
-Press w to open the app in the web browser.
-Scan the QR code using the Expo Go app on your Android/iOS device for mobile view.
+ - Press w to open the app in the web browser.
+ - Scan the QR code using the Expo Go app on your Android/iOS device for mobile view.
 
 ### 📱 Expo Go App Links
 
