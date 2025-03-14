@@ -2,13 +2,13 @@
 
 # UserInfoApp
 
-## 📋 Overview
+## Overview
 
 UserInfoApp is a **React Native mobile and web application** that fetches and displays random user data using the **Random Data API**. The app allows users to navigate through a list of user profiles, showing important details like ID, UID, name, email, username, password, and avatar image. This application demonstrates skills in **React Native development, API handling, state management**, and **responsive UI design** for mobile and web platforms.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Fetches and displays user information:
   - **ID**
@@ -25,9 +25,9 @@ UserInfoApp is a **React Native mobile and web application** that fetches and di
 
 ---
 
-## 🛠️ How to Run the Application Locally
+## How to Run the Application Locally
 
-### ✅ 1. Clone the Repository
+### 1. Clone the Repository
 
 ```bash
 git clone <your-repo-link>
