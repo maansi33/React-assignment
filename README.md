@@ -45,7 +45,7 @@ npm install
 ```bash
 Copy code
 npx expo install react-dom react-native-web @expo/metro-runtime
-
+``` 
 4. Run the App
 To start the development server:
 
